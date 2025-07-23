@@ -1,2 +1,2 @@
 # Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard-main
-Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some stock data, you will then display this data in a graph.
+Peer-graded Assignment: As a data scientist working for an investment firm, We will extract the revenue data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the revenue.
